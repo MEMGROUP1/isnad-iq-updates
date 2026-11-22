@@ -1,5 +1,13 @@
 [
   {
+    "id": "5f8654df-f7ef-4f8c-9317-e1f890c00c42",
+    "createdAt": "2026-11-22T14:35:24.750Z",
+    "runtime": "1.0.1",
+    "platform": "android",
+    "message": "Door phase 3: requests, interests, favourites sync, activity, filters",
+    "rollbackOf": null
+  },
+  {
     "id": "71f08905-b054-4091-b040-66d218c9d0e5",
     "createdAt": "2026-11-22T13:44:26.977Z",
     "runtime": "0.0.0-test",
