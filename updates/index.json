@@ -393,12 +393,12 @@
   },
   "1.0.1": {
     "android": {
-      "id": "e13f3240-4d09-4094-ab18-d0230f91f458",
-      "createdAt": "2026-11-22T15:21:07.419Z",
-      "message": "Notifications inbox and settings",
+      "id": "b17424df-95ee-4ecf-96ba-89b10ada83d6",
+      "createdAt": "2026-11-22T15:55:30.855Z",
+      "message": "Collections, invites, saved searches, share links",
       "launchAsset": {
-        "hash": "VziU77KQoOZ9tqk_OrlOWo2g532qZFYgvHLF5_29vFw",
-        "key": "dbd53240af81a869650c14a29bd580af",
+        "hash": "fWsvXHlINkKrgirh4YUwhI2HgMWiQkSMZKh14psuOJI",
+        "key": "6de15af40dd428d6813daa7720bf8f56",
         "contentType": "application/javascript",
         "file": "bundle.hbc"
       },

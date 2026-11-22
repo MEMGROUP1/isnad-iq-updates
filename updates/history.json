@@ -1,5 +1,13 @@
 [
   {
+    "id": "b17424df-95ee-4ecf-96ba-89b10ada83d6",
+    "createdAt": "2026-11-22T15:55:30.855Z",
+    "runtime": "1.0.1",
+    "platform": "android",
+    "message": "Collections, invites, saved searches, share links",
+    "rollbackOf": null
+  },
+  {
     "id": "e13f3240-4d09-4094-ab18-d0230f91f458",
     "createdAt": "2026-11-22T15:21:07.419Z",
     "runtime": "1.0.1",
