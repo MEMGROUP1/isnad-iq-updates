@@ -393,12 +393,12 @@
   },
   "1.0.1": {
     "android": {
-      "id": "0e072613-42ee-4108-91df-b5d849ea1ff4",
-      "createdAt": "2026-11-22T15:06:44.567Z",
-      "message": "Owner request: Rent service model keys",
+      "id": "e13f3240-4d09-4094-ab18-d0230f91f458",
+      "createdAt": "2026-11-22T15:21:07.419Z",
+      "message": "Notifications inbox and settings",
       "launchAsset": {
-        "hash": "k50atlj8dy9zSC_NBzNH5Qh2eS3DXFCSYKAITdu_wQ0",
-        "key": "70745ff05ee1b1f477fe069da845a4da",
+        "hash": "VziU77KQoOZ9tqk_OrlOWo2g532qZFYgvHLF5_29vFw",
+        "key": "dbd53240af81a869650c14a29bd580af",
         "contentType": "application/javascript",
         "file": "bundle.hbc"
       },

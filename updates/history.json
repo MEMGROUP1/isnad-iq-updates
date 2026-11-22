@@ -1,5 +1,13 @@
 [
   {
+    "id": "e13f3240-4d09-4094-ab18-d0230f91f458",
+    "createdAt": "2026-11-22T15:21:07.419Z",
+    "runtime": "1.0.1",
+    "platform": "android",
+    "message": "Notifications inbox and settings",
+    "rollbackOf": null
+  },
+  {
     "id": "0e072613-42ee-4108-91df-b5d849ea1ff4",
     "createdAt": "2026-11-22T15:06:44.567Z",
     "runtime": "1.0.1",
