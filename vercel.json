@@ -1,0 +1,16 @@
+{
+  "headers": [
+    {
+      "source": "/updates/:id/(.*)",
+      "headers": [{ "key": "cache-control", "value": "public, max-age=31536000, immutable" }]
+    },
+    {
+      "source": "/updates/:id/(.*).hbc",
+      "headers": [{ "key": "content-type", "value": "application/javascript" }]
+    },
+    {
+      "source": "/updates/index.json",
+      "headers": [{ "key": "cache-control", "value": "private, max-age=0" }]
+    }
+  ]
+}
