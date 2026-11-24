@@ -1,5 +1,13 @@
 [
   {
+    "id": "1db2c650-04b2-4e12-aa9d-ebcd1efcd7dc",
+    "createdAt": "2026-11-24T16:39:16.307Z",
+    "runtime": "1.0.3",
+    "platform": "android",
+    "message": "أيقونات أقسام شركاء ISNAD Care الحقيقية",
+    "rollbackOf": null
+  },
+  {
     "id": "b17424df-95ee-4ecf-96ba-89b10ada83d6",
     "createdAt": "2026-11-22T15:55:30.855Z",
     "runtime": "1.0.1",
